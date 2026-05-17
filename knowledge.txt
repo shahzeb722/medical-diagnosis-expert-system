@@ -1,0 +1,25 @@
+﻿Pneumonia has symptoms Fever, Cough, Chest Pain, Shortness of Breath
+Bronchitis has symptoms Cough, Fatigue, Shortness of Breath, Mucus
+Asthma has symptoms Cough, Shortness of Breath, Wheezing
+Anemia has symptoms Fatigue, Dizziness, Pale Skin
+Diabetes has symptoms Fatigue, Excessive Thirst, Frequent Urination
+Hypertension has symptoms Headache, Dizziness, Blurred Vision
+Migraine has symptoms Headache, Nausea, Sensitivity to Light
+Food Poisoning has symptoms Nausea, Diarrhea, Stomach Pain
+Gastroenteritis has symptoms Diarrhea, Vomiting, Fever
+Dehydration has symptoms Dizziness, Headache, Dry Mouth
+Allergy has symptoms Sneezing, Runny Nose, Itchy Eyes
+Conjunctivitis has symptoms Red Eyes, Itchy Eyes, Eye Discharge
+Chickenpox has symptoms Fever, Rash, Fatigue
+Measles has symptoms Fever, Rash, Cough, Runny Nose
+Strep Throat has symptoms Sore Throat, Fever, Swollen Glands
+Tonsillitis has symptoms Sore Throat, Fever, Difficulty Swallowing
+Sinusitis has symptoms Headache, Runny Nose, Facial Pain
+Thyroiditis has symptoms Fatigue, Weight Gain, Cold Intolerance
+Arthritis has symptoms Joint Pain, Stiffness, Swelling
+Kidney Stone has symptoms Severe Pain, Nausea, Frequent Urination
+UTI has symptoms Frequent Urination, Burning Sensation, Fever
+Appendicitis has symptoms Stomach Pain, Nausea, Fever
+Lyme Disease has symptoms Rash, Fever, Fatigue, Headache
+Lupus has symptoms Fatigue, Joint Pain, Rash
+Meningitis has symptoms Fever, Headache, Stiff Neck
